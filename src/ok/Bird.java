@@ -14,7 +14,7 @@ public class Bird extends FligthAnimal {
 
   @Override
   public void fligthSpeed() {
-    System.out.println("I can't run !!");
+    System.out.println("I Flight 40Km/h !!");
   }
 
 }
